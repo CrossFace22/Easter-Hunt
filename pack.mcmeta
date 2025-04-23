@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": {
+      "text": "Easter Hunt! - v1.1\n",
+      "type": "text",
+      "extra": [
+        {
+          "text": "Mobs drop Easter Eggs!",
+          "type": "text",
+          "color": "#47afff",
+          "bold": false
+        }
+      ],
+      "color": "#ff4747",
+      "bold": true
+    },
+    "pack_format": 71
+  }
+}
